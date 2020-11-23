@@ -1,0 +1,309 @@
+.interface {
+    background-color:#ffffff;
+    margin: -10px auto 0 auto;
+    box-shadow: 0 0 10px rgba(247, 79, 115,0.7);
+    padding: 10px;
+    width: 1800px;
+
+}
+
+
+body p{
+    font-size: 35pt;
+    font-family: sans-serif;
+}
+
+ul li{
+    font-size: 35pt;
+}
+
+
+
+.img-top:hover {
+    -webkit-transform: scale(1.1);
+}
+
+.img-top{
+    -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;
+}
+
+.img-top{
+    border-radius: 25px;
+}
+
+.img-top{
+    width: 1800px;
+
+}
+
+
+/*-----------------topico-01---------------*/
+
+
+
+.titulo_topico01{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 1200px;
+}
+
+div#topico_01{
+    text-align: left;
+    
+}
+
+.img_topico01{
+    position: absolute;
+    margin-top: -700px;
+    margin-left: 1000px;
+
+
+    border-radius: 25px;
+    width: 800px;
+}
+.img_topico01:hover{
+    -webkit-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.8);
+}
+
+p#txt_01{
+    width: 900px;
+}
+
+/*-----------------topico-02---------------*/
+
+.titulo_topico02{
+    width: 1200px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: 0px;
+}
+
+
+div#topico_02{
+    text-align: right;
+    width: 900px;
+
+    margin-left: 850px;
+}
+
+.img_topico02{
+    position: absolute;
+    margin-top: -800px;
+    width: 700px;
+}
+
+/*-----------------topico-03---------------*/
+
+
+.titulo_topico03{
+    width: 1200px;
+
+    display: block;
+    margin-left: 0px;
+    margin-right: auto;
+}
+
+div#topico_03{
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 100px;
+
+    width: 900px;
+}
+
+.img_topico03{
+    position: absolute;
+    width: 800px;
+    border-radius: 25px;
+
+    margin-left: 950px;
+    margin-top: -730px;
+}
+
+/*-----------------topico-04---------------*/
+
+.titulo_topico04{
+    width: 750px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: 0px;
+}
+
+div#topico_04{
+    text-align: right;
+    width: 900px;
+
+
+    margin-left: 850px;
+}
+
+.img_topico04{
+    position: absolute;
+    margin-top: -585px;
+    border-radius: 25px;
+    margin-left: 50px;
+    width: 550px;
+}
+
+
+/*-----------------topico-05---------------*/
+
+.titulo_topico05{
+    width: 1200px;
+
+    display: block;
+    margin-left: 0px;
+    margin-right: auto;
+}
+
+div#topico_05{
+    text-align: left;
+    width: 900px;
+    margin-top: 100px;
+}
+
+.img_topico05{
+    position: absolute;
+    width: 760px;
+    border-radius: 25px;
+
+    margin-top: -1150px;
+    margin-left: 1000px;
+}
+
+
+/*-----------------topico-06---------------*/
+.titulo_topico06{
+    width: 1500px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: 0px;
+}
+
+
+
+div#topico_06{
+    text-align: right;
+    width: 900px;
+    margin: 100px;
+
+    margin-left: 850px;
+}
+
+
+.img_topico06{
+    position: absolute;
+    width: 450px;
+
+    margin-top: -700px;
+    margin-left: 50px;
+}
+
+/*-----------------topico-07---------------*/
+
+.titulo_topico07{
+    width: 1200px;
+
+    display: block;
+    margin-left: 0px;
+    margin-right: auto;
+}
+
+div#topico07{
+    text-align: left;
+    width: 900px;
+}
+
+.img_topico07{
+    border-radius: 25px;
+    position: absolute;
+    width: 750px;
+
+
+
+
+
+    margin-left: 950px;
+    margin-top: -1650px;
+}
+
+
+/*-----------------topico-08---------------*/
+
+
+
+
+
+.titulo_topico08{
+    width: 1200px;
+
+    display: block;
+
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: 0px;
+}
+
+div#topico08{
+    text-align: right;
+    width: 900px;
+
+    margin-top: 100px;
+    margin-left: 830px;
+}
+
+.img_topico08{
+    position: absolute;
+
+    width: 750px;
+    margin-top: -1000px;
+    margin-left: 30px;
+}
+
+
+/*-----------------topico-09---------------*/
+
+
+.img_topico09{
+    width: 1300px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: 0px;
+}
+
+/*-----------------topico-10---------------*/
+
+
+.titulo_topico10{
+    width: 1200px;
+
+    display: block;
+
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.topico_10{
+    text-align: left;
+    width: 1000px;
+
+    margin-left: 50px;
+}
+
+
+.img_topico10{
+    width: 700px;
+
+    margin-left: 1100px;
+    margin-top: -650px;
+}
